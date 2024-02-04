@@ -12,5 +12,9 @@ int main(){
     else
     cout<<num1<<"is gretaer then"<<num1;
     return 0;
-    
+
+
+    //time compllexity:o(1)
+    //space complexity:o(1)
+
 }
